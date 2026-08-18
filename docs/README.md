@@ -66,7 +66,7 @@ Quality is embedded throughout the delivery cycle with unit tests for new logic,
 
 ## Getting Help
 
-- Need the big picture? Start with the [Project Management Overview](octoacme-project-management-overview.md) and use the Documentation Index above to navigate by phase.
+- Need the big picture? Start with the [Project Management Overview](octoacme-project-management-overview.md) and use the [Documentation Index](#documentation-index) to navigate by phase.
 - Unsure which guide applies to your current work? Use the Quick Reference section to jump to the right phase-based document.
 - Questions about responsibilities? See [Roles & Personas](octoacme-roles-and-personas.md).
 - Need to update these docs? Use the [Add Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template.
