@@ -1,6 +1,6 @@
 # OctoAcme Project Management Documentation
 
-Welcome to the OctoAcme project management process library. These documents provide comprehensive guidance for running successful, cross-functional projects from initiation through close.
+Welcome to the OctoAcme project management process library. This `docs/` folder is the authoritative source for the team's project management guidance and provides a clear starting point for running successful, cross-functional projects from initiation through close.
 
 ## Quick Start
 
@@ -47,9 +47,26 @@ Quality is embedded throughout the delivery cycle with unit tests for new logic,
 - **Data-informed**: Measure impact and iterate based on evidence
 - **Psychological safety**: Encourage feedback and learning
 
+## Core Roles
+
+- **Project Manager (PM)**: Coordinates delivery, timelines, risk management, and stakeholder communication
+- **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
+- **Developers**: Build solutions, collaborate on implementation details, and maintain engineering quality
+- **QA/Testing**: Validates acceptance criteria and supports release readiness
+- **Stakeholders**: Provide business context, approvals, and ongoing feedback
+
+## Quick Reference
+
+- **New to OctoAcme project delivery?** Start with the [Project Management Overview](octoacme-project-management-overview.md), then review [Roles & Personas](octoacme-roles-and-personas.md).
+- **Starting a new project?** Use [Project Initiation](octoacme-project-initiation.md) to define the problem, stakeholders, and initial success measures.
+- **Preparing the delivery plan?** Follow [Project Planning](octoacme-project-planning.md) for scope, sequencing, estimation, and milestone setup.
+- **Running day-to-day execution?** Use [Execution & Tracking](octoacme-execution-and-tracking.md) alongside [Risk Management & Communication](octoacme-risks-and-communication.md).
+- **Getting ready to ship?** Review [Release & Deployment](octoacme-release-and-deployment.md) for release checks, deployment, and rollback planning.
+- **Closing a project or sprint?** Capture learnings in [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md).
+
 ## Getting Help
 
-- New to OctoAcme? Start with the [Project Management Overview](octoacme-project-management-overview.md)
-- Starting a new project? Follow the [Project Initiation](octoacme-project-initiation.md) guide
-- Questions about roles? See [Roles & Personas](octoacme-roles-and-personas.md)
-- Need to update these docs? Use the [Add Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template
+- Need the big picture? Start with the [Project Management Overview](octoacme-project-management-overview.md) and use the [Documentation Index](#documentation-index) to navigate by phase.
+- Unsure which guide applies to your current work? Use the Quick Reference section to jump to the right phase-based document.
+- Questions about responsibilities? See [Roles & Personas](octoacme-roles-and-personas.md).
+- Need to update these docs? Use the [Add Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template.
